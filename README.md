@@ -3,6 +3,7 @@
 To run:
 
 javac \*.java
+
 java Handler.java
 
 The Handler class creates a collection of Shapes, sorts them (by area), and prints their descriptions.
